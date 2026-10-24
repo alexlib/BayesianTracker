@@ -65,3 +65,4 @@ sdist
 target
 user_config.json
 var
+uv.lock
